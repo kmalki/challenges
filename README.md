@@ -1,3 +1,8 @@
+# Note
+From a junior data engineer, I did the challenge and put my Spark Application in the repo. Possible to get some feedbacks without creating a pull request and putting my solution in the main repo ? @MaximePlancke
+
+
+
 # Hiring process at Didomi
 
 For engineering positions at Didomi, our hiring process is made of 4 steps:
