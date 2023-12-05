@@ -1,3 +1,8 @@
+# Readme
+
+J’ai effectué ce test technique sans avoir été dans le processus de recrutement. Je voulais m’exercer sur spark scala avec cet exercice. Il était donné un exemple de données avec leurs informations, et il fallait calculer certaines métriques d’analyse via spark.
+
+
 # Data engineering challenge
 
 This challenge is used by Didomi for evaluating candidates for data engineering positions.
